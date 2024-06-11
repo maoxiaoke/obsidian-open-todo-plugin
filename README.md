@@ -1,3 +1,5 @@
+<image src="./example.gif" />
+
 ## Overview
 
 This a plugin for Obsidian that allows you to open the todo file.
